@@ -35,7 +35,7 @@ For more information on the dataset, click the following link: __[https://health
 
 <p align="center">
 Import the necessary Python libraries: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Import Libraries"/>
 <br />
 <br />
 Select the disk:  <br/>
